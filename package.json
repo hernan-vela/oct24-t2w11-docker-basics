@@ -1,0 +1,19 @@
+{
+  "name": "oct24-t2w11-docker-basics",
+  "version": "1.0.0",
+  "description": "docker project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hernan-vela/oct24-t2w11-docker-basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hernan-vela/oct24-t2w11-docker-basics/issues"
+  },
+  "homepage": "https://github.com/hernan-vela/oct24-t2w11-docker-basics#readme"
+}
